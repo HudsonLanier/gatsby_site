@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-#image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: The Best Barbershop in Dover
+image: /img/barber-supplies.jpg
+heading: The Best Barbershop in Dover
+subheading: Come get your hair cut and meet the gang
 mainpitch:
-  title: Why Kaldi
+  title: Why Just Cuts
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
